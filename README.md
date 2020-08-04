@@ -8,4 +8,4 @@ The letters were OCR scanned and manually checked. The corpus consists of 209 te
 
 For more details about the corpus and an authorship analysis of the earliest letters, see
 
-[Nini, A. (2018). An authorship analysis of the Jack the Ripper letters. Digital Scholarship in the Humanities, 33(3),  621-636.] (https://academic.oup.com/dsh/article/33/3/621/4824843)
+[Nini, A. (2018). An authorship analysis of the Jack the Ripper letters. Digital Scholarship in the Humanities, 33(3),  621-636.](https://academic.oup.com/dsh/article/33/3/621/4824843)
