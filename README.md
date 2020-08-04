@@ -1,5 +1,7 @@
 # The Jack the Ripper corpus
 
+[![DOI](https://zenodo.org/badge/284939300.svg)](https://zenodo.org/badge/latestdoi/284939300)
+
 The Jack the Ripper corpus contains all the letters or postcards found and transcribed in the Appendix of
 
 Evans S. P., Skinner K. (2001). Jack the Ripper: Letters from Hell. Stroud: Sutton.
